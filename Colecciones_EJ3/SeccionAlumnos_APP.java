@@ -53,7 +53,7 @@ public class SeccionAlumnos_APP {
                 System.out.println("El promedio del alumno " + Name.toUpperCase() + " es " + df.format(Promedio));
             } else {
                 System.out.println("El alumno no figura en la base de datos");
-               
+               ///SERÍA BUENO HACER UN LOOP QUE VUELVA AL PRINCIPIO DE ----PROMEDIOS----
             }
         }
 
