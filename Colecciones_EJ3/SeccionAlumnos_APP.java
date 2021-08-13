@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
- * TCrear una clase llamada Alumno que mantenga información sobre las notas de
+ * Crear una clase llamada Alumno que mantenga información sobre las notas de
 distintos alumnos. La clase Alumno tendrá como atributos, su nombre y una lista
 de tipo Integer con sus 3 notas.
 En el main deberemos tener un bucle que crea un objeto Alumno. Se pide toda la
@@ -20,7 +20,8 @@ Ejemplo de una colección como atributo: ColeccionAtributo
  */
 /**
  *
- * @author N Mancuso
+ * @author N Mancuso muchas gracias Cristian Condori por compartir los ejercicios resueltos.
+ 
  */
 public class SeccionAlumnos_APP {
 
