@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*
- * TLa clase Alumno tendrá como atributos, su nombre y una lista
+ * La clase Alumno tendrá como atributos, su nombre y una lista
 de tipo Integer con sus 3 notas.
  */
 /**
