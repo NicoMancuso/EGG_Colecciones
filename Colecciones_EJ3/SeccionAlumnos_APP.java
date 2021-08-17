@@ -58,5 +58,8 @@ public class SeccionAlumnos_APP {
         }
 
     }
-
+/*
+hay que arreglar la salida de "El alumno no figura en la base de datos""!!!
+*/
+ 
 }
